@@ -2,7 +2,7 @@
 console.log(3
     + 3);
     // alert(3 + 3); this is not a correct way of writing code
-/// FOLLOW TC39 AND MDN  DOCUMENTATION
+// FOLLOW TC39 AND MDN  DOCUMENTATION
 let name = "aarush";
 let age = 20;
 let isLoggedIn = false;
